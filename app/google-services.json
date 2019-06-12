@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423264280145",
+    "firebase_url": "https://farmer-master-c97ff.firebaseio.com",
+    "project_id": "farmer-master-c97ff",
+    "storage_bucket": "farmer-master-c97ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423264280145:android:1341fc341fb046e8",
+        "android_client_info": {
+          "package_name": "com.arshilgenius.kisan.agriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423264280145-dmrchfog5ih1n1ddnsoa907dqmsi8oh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arshilgenius.kisan.agriculture",
+            "certificate_hash": "e1ae25fe7db788dfb468e88682e95df7fcfcf7cb"
+          }
+        },
+        {
+          "client_id": "423264280145-ojb08fefv427nu2pfthtu4enaiub37vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm5W1qi7-EZnLR8C945AIbnD7vN-W2EY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423264280145-ojb08fefv427nu2pfthtu4enaiub37vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
